@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="NOSSA_LOGO_SEM_FUNDO.ico" type="image/x-icon">
+    <title>Vitor Belfort testa positivo para Covid e não enfrenta Hasim Rahman Jr no boxe</title>
+    <style>
+        body{
+            text-align: center;
+        }
+        #vitorbelfort{
+            text-align: center;
+        }
+        p{
+            font-size: 20px;
+        }
+        #div1{
+            background-color: crimson;
+            font-size: x-large;
+            box-shadow: 7px 8px;
+            padding: 7px;
+        }
+        #div4{
+            font-size: x-large;
+        }
+        #div5{
+            font-size: x-large;
+        }
+        img{
+            border-radius: 10%;
+            box-shadow: 15px 15px 50px;
+        }
+        #div1link1{
+            text-decoration: none;
+            color: white;
+        }
+        #div1link2{
+            text-decoration: none;
+            color: white;
+        }
+        #div1link3{
+            text-decoration: none;
+            color:white;
+        }
+        #div4link{
+            text-decoration: none;
+            background-color: crimson;
+            padding: 12px;
+            color: white;
+            border-radius: 30px;
+            font-size: x-large;
+        }
+        #div4link2{
+            text-decoration: none;
+            background-color: crimson;
+            padding: 12px;
+            color: white;
+            border-radius: 30px;
+            font-size: x-large;
+        }
+    </style>
+</head>
+<body>
+    <br>
+    <nav id="div1">
+        <a id="div1link1" href="https://ge.globo.com/">GE Esportes</a>&nbsp&nbsp
+        <a id="div1link2" href="https://g1.globo.com/">G1 Globo</a><br>
+        <a id="div1link3" href="2-formulario-newsletter.html">Inscreva-se em nossa Newsletter</a>
+    </nav>
+    <h1>Kl Esportes</h1>
+    <h2>Você ligado em tudo no mundo dos esportes</h2>
+    <p></p>
+    <div id="vitorbelfort">
+        <picture>
+            <img id="vitorbelfort" src="IMAGENS/1-PAGINA1/2-VITOR-BELFORT.png" alt="VITOR_BELFORT">
+        </picture>
+    </div>
+    <h1>Vitor Belfort testa positivo para Covid e não enfrenta Hasim Rahman Jr no boxe</h1>
+    <h2>Lenda do MMA, brasileiro deixa o card do evento no Texas para ser substituído por Greg Hardy, ex-jogador da NFL e ex-UFC</h2>
+    <p>Agendado para o próximo sábado, 19, no Moody Theatre, em Austin, Texas, o Misfits Boxing 3 teve de fazer uma mudança de emergência na sua luta principal, faltando apenas quatro dias para o evento. Vitor Belfort testou positivo para Covid e deixa o card, sendo substituído por Greg Hardy para enfrentar Hasim Rahman Jr. Inicialmente não era certo o motivo pelo qual o Fenômeno do MMA tinha sido substituído, mas a Espn dos Estados Unidos trouxe a informação da contaminação pelo vírus.
+    </p>
+    <p>Após deixar o MMA, Vitor Belfort fez apenas uma luta no boxe e venceu Evander Holyfield por nocaute técnico em setembro de 2021. Curiosamente, o Fenômeno não lutou com o pugilista norte-americano porque Oscar De La Hoya, seu adversário inicial, testou positivo para Covid.
+    </p>
+    <p>A luta entre Hasim Rahman Jr e Greg Hardy será de quatro rounds e no peso-pesado, ainda que Rahman Jr tenha pesado 100 libras (cerca de 45,4kg) a menos do que o futuro adversário nas suas últimas lutas.
+    </p>
+    <p>Com 12 vitórias no cartel, Hasim Rahman Jr, de 31 anos, teve sua única derrota no boxe na última luta, quando sofreu um nocaute técnico no quinto round para James McKenzie Morrison, em abril de 2022. O peso-pesado deveria lutar com Jake Paul em agosto, mas a equipe do youtuber alegou que Rahman Jr estava fora do peso combinado e o evento foi cancelado.
+    </p>
+    <p>Já Greg Hardy, de 34 anos, tem apenas uma luta no boxe e uma vitória, contra Michael Cook, por nocaute técnico no segundo round, em outubro. Agora pugilista, Hardy teve uma carreira controversa como defensive end na NFL, o que inclui até acusações de violência doméstica, e um cartel de sete vitórias e cinco derrotas no MMA. Pelo UFC, cuja saída aconteceu em março, após encerramento do contrato, foram quatro vitórias e cinco derrotas, além de uma luta sem resultado.
+    </p>
+    <div id="div4">
+        <a id="div4link" href="1-pagina-principal.html">Voltar</a>
+    </div>
+</body>
+</html>

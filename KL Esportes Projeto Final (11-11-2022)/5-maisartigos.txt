@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="NOSSA_LOGO_SEM_FUNDO.ico" type="image/x-icon">
+    <title>Explore mais artigos do nosso site!!</title>
+    <style>
+        body{
+            text-align: center;
+        }
+        #titulo1{
+            line-height: 0.5em;
+        }
+        #titulo2{
+            line-height: 0.5em;
+        }
+        #titulo3{
+            line-height: 0.5em;
+        }
+        #titulo4{
+            line-height: 0.5em;
+        }
+        #subtitulo1{
+            line-height: 0.5em;
+        }
+        #subtitulo2{
+            line-height: 0.5em;
+        }
+        #subtitulo3{
+            line-height: 0.5em;
+        }
+        #subtitulo4{
+            line-height: 0.5em;
+        }
+        #div3{
+            background-color:royalblue;
+            padding: 7px;
+            color: white;
+        }
+        #div2{
+            background-color:crimson;
+            color: aliceblue;
+            padding: 7px;
+        }
+        #div1{
+            background-color: crimson;
+            font-size: x-large;
+            box-shadow: 7px 8px;
+            padding: 7px;
+        }
+        img{
+            border-radius: 10%;
+            box-shadow: 15px 15px 50px;
+        }
+        #div4{
+            font-size: x-large;
+        }
+        #div4link{
+            text-decoration: none;
+            background-color: crimson;
+            padding: 12px;
+            color: white;
+            border-radius: 30px;
+            font-size: x-large;
+        }
+        #div1link1{
+            text-decoration: none;
+            color: white;
+        }
+        #div1link2{
+            text-decoration: none;
+            color: white;
+        }
+        #div1link3{
+            text-decoration: none;
+            color:white;
+        }
+        #cervejacara{
+            text-align: center;
+            color: black;
+        }
+        #superliga{
+            text-align: center;
+            color: black;
+        }
+        #selecao{
+            text-align: center;
+            color: black;
+        }
+        #canadabrasil{
+            text-align: center;
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <br>
+    <nav id="div1">
+        <a id="div1link1" href="https://ge.globo.com/">GE Esportes</a>&nbsp&nbsp
+        <a id="div1link2" href="https://g1.globo.com/">G1 Globo</a><br>
+        <a id="div1link3" href="2-formulario-newsletter.html">Inscreva-se em nossa Newsletter</a>
+    </nav>
+    <h1>Kl Esportes</h1>
+    <h2>Você ligado em tudo no mundo dos esportes</h2>
+    <p></p>
+    <p></p>
+    <div id="cervejacara">
+        <picture>
+            <a href="6-CATAR-CERVEJA-CARA.html"><img id="cervejacara" src="IMAGENS/2-MAIS_ARTIGOS/1-CATAR-CERVEJA-CARA.png" alt="CERVEJA_CARA"></a>
+        </picture>
+    </div>
+    <h2 id="titulo1">Vai ter copo? Mundial do Catar terá a cerveja mais cara da história do torneio</h2>
+    <h4 id="subtitulo1">Bebida poderá ser consumida na fan fest e nos entornos dos oito estádios do Mundial</h4>
+    <p></p>
+    <div id="superliga">
+        <picture>
+            <a href="7-SESC-SUPERLIGA.html"><img id="superliga" src="IMAGENS/2-MAIS_ARTIGOS/2-SESC-SUPERLIGA.png" alt="SESC_SUPERLIGA"></a>
+        </picture>
+    </div>
+    <h2 id="titulo2">Sesc-Fla vence primeira e quebra invencibilidade do Flu na Superliga</h2>
+    <h4 id="subtitulo2">Equipe de Bernardinho começa mal o clássico, mas consegue virar a partida disputada no Hebraica</h4>
+    <p></p>
+    <div id="selecao">
+        <picture>
+            <a href="8-SELEÇÃO-BRASILEIRA-FUTEBOL.html"><img id="selecao" src="IMAGENS/2-MAIS_ARTIGOS/3-SELEÇÃO-BRASILEIRA-FUTEBOL.png" alt="SELEÇÃO_FUTEBOL"></a>
+        </picture>
+    </div>
+    <h2 id="titulo3">Jogos, títulos e gols: os números dos convocados da Seleção para a Copa no futebol brasileiro</h2>
+    <h4 id="subtitulo3">Entre os chamados por Tite, uns nem chegaram a atuar e outros que fazem história até hoje</h4>
+    <p></p>
+    <div id="canadabrasil">
+        <picture>
+            <a href="9-CANADA-BRASIL.html"><img id="canadabrasil" src="IMAGENS/2-MAIS_ARTIGOS/4-CANADA-BRASIL.png" alt="CANADA_BRASIL"></a>
+        </picture>
+    </div>
+    <h2 id="titulo4">Com gol nos acréscimos, Brasil vence Canadá na despedida da temporada</h2>
+    <h4 id="subtitulo4">Bia Zaneratto e Ana Vitória marcam para a seleção em amistoso na Neo Química Arena</h4>
+    <br><div id="div4">
+        <a id="div4link" href="1-pagina-principal.html">Voltar para o início</a>
+    </div><br><br>
+    <div id="div2">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Iste totam inventore quo magni maxime et doloremque aut possimus, 
+        fuga nesciunt pariatur cupiditate libero porro vero tempore? Quidem, maxime eos! Officiis?
+    </div>
+    <div id="div3">
+        Kauan Fernandes Bittencourt &nbsp&nbsp<strong>kauan.bittencourt@senaisp.edu.br</strong>
+        <br>Lucas Lopes &nbsp&nbsp<strong>lucas.lopes65@senaisp.edu.br</strong>
+        <br>e<br>Luis Gustavo Ferreira da Silva &nbsp&nbsp<strong>luis.silva183@senaisp.edu.br</strong>
+        <br>Todos os direitos reservados
+    </div>
+</body>
+</html>

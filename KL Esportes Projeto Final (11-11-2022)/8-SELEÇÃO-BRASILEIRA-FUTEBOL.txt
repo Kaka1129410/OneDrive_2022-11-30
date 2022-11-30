@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="NOSSA_LOGO_SEM_FUNDO.ico" type="image/x-icon">
+    <title>Jogos, títulos e gols: os números dos convocados da Seleção para a Copa no futebol brasileiro</title>
+    <style>
+        body{
+            text-align: center;
+        }
+        #vitorbelfort{
+            text-align: center;
+        }
+        p{
+            font-size: 20px;
+        }
+        #div1{
+            background-color: crimson;
+            font-size: x-large;
+            box-shadow: 7px 8px;
+            padding: 7px;
+        }
+        #div4{
+            font-size: x-large;
+            text-align: left;
+        }
+        #div5{
+            font-size: x-large;
+            text-align: right;
+        }
+        img{
+            border-radius: 10%;
+            box-shadow: 15px 15px 50px;
+        }
+        #div1link1{
+            text-decoration: none;
+            color: white;
+        }
+        #div1link2{
+            text-decoration: none;
+            color: white;
+        }
+        #div1link3{
+            text-decoration: none;
+            color:white;
+        }
+        #div4link{
+            text-decoration: none;
+            background-color: crimson;
+            padding: 12px;
+            color: white;
+            border-radius: 30px;
+            font-size: x-large;
+        }
+        #div4link2{
+            text-decoration: none;
+            background-color: crimson;
+            padding: 12px;
+            color: white;
+            border-radius: 30px;
+            font-size: x-large;
+        }
+    </style>
+</head>
+<body>
+    <br>
+    <nav id="div1">
+        <a id="div1link1" href="https://ge.globo.com/">GE Esportes</a>&nbsp&nbsp
+        <a id="div1link2" href="https://g1.globo.com/">G1 Globo</a><br>
+        <a id="div1link3" href="2-formulario-newsletter.html">Inscreva-se em nossa Newsletter</a>
+    </nav>
+    <h1>Kl Esportes</h1>
+    <h2>Você ligado em tudo no mundo dos esportes</h2>
+    <p></p>
+    <div id="vitorbelfort">
+        <picture>
+            <img id="vitorbelfort" src="IMAGENS/2-MAIS_ARTIGOS/3-SELEÇÃO-BRASILEIRA-FUTEBOL.png" alt="VITOR_BELFORT">
+        </picture>
+    </div>
+    <h1>Jogos, títulos e gols: os números dos convocados da Seleção para a Copa no futebol brasileiro</h1>
+    <h2>Entre aqueles que nem chegaram a atuar e outros que fazem história até hoje, jogadores chamados por Tite para o Mundial no Catar possuem trajetórias variadas no Brasil</h2>
+    <p>Dos 26 convocados por Tite para representar a seleção brasileira na Copa do Mundo, apenas Weverton, Pedro e Everton Ribeiro atuam no futebol brasileiro, mas praticamente todos os atletas do grupo deixaram alguma marca no país antes de seguirem para a Europa. O ge fez um levantamento com os feitos de cada um deles no mercado nacional, confira:
+    </p>
+    <h2>Goleiros</h2>
+    <h2>Alisson</h2>
+    <li>
+        <li>Internacional (2012-2016): 101 jogos</li>
+        <li>Títulos: Campeonato Gaúcho (2013, 2014, 2015, 2016), Recopa Gaúcha (2016)</li>
+    </li>
+    <h2>Ederson</h2>
+    <li>
+        Formado no São Paulo, seguiu para o Benfica ainda na base e não fez jogos como profissional no Brasil.
+    </li>
+    <h2>Weverton</h2>
+    <li>
+        <li>Palmeiras (desde 2018): 261 jogos </li>
+        <li>Athletico-PR (2012-2017): 303 jogos</li>
+        <li>Portuguesa (2010-2012): 105 jogos</li>
+        <li>Botafogo-SP (2010): 22 jogos</li>
+        <li>América-RN (2009): 16 jogos</li>
+        <li>Oeste (2009): 18 jogos</li>
+        <li>Corinthians (2008): sem jogos</li>
+        <li>Remo (2007): 1 jogo</li>
+        <li>Total: 726 jogos</li>
+        <li>Títulos: Recopa Sul-Americana (2022), Copa do Brasil (2020), Campeonato Paranaense (2016), Campeonato Brasileiro Série B (2008 e 2011), Conmebol Libertadores (2020 e 2021), Campeonato Brasileiro (2018 e 2022), Campeonato Paulista (2020 e 2022) e Campeonato Paulista do Interior (2010).</li>
+    </li>
+    <h2>Laterais</h2>
+    <h2>Danilo</h2>
+    <li>
+        <li>Santos (2010-2011): 78 jogos, 10 gols</li>
+        <li>América-MG (2009-2010): 45 jogos, 4 gols</li>
+        <li>Total: 123 jogos e 14 gols</li>
+        <li>Títulos: Campeonato Brasileiro Série C (2009), Copa do Brasil (2010), Libertadores (2011), Campeonato Paulista (2011)</li>
+    </li>
+    <h2>Daniel Alves</h2>
+    <li>
+        <li>Bahia (2002-2003): 54 jogos, 4 gols</li>
+        <li>São Paulo (2019-2021): 95 jogos, 10 gols</li>
+        <li>Total: 149 jogos, 14 gols</li>
+        <li>Títulos: Copa do Nordeste (2002), Campeonato Paulista (2021)</li>
+    </li>
+    <h2>Alex Telles</h2>
+    <li>
+        <li>Grêmio (2013): 51 jogos, 1 gol</li>
+        <li>Juventude (2011-2012): 30 jogos, 2 gols</li>
+        <li>Total: 81 jogos, 3 gols</li>
+        <li>Títulos: Copa FGF (2011 e 2012)</li>
+    </li>
+    <h2>Alex Sandro</h2>
+    <li>
+        <li>Santos (2010-2011): 53 jogos, 3 gols</li>
+        <li>Athletico-PR (2008-2009): 16 jogos, 1 gol</li>
+        <li>Total: 69 jogos, 4 gols</li>
+        <li>Títulos: Campeonato Paranaense (2009), Copa do Brasil (2010), Campeonato Paulista (2010 e 2011), Copa Libertadores (2011)</li>
+    </li>
+    <h2>Bremer</h2>
+    <li>
+        <li>Atlético-MG (2017-2018): 33 jogos, 1 gol</li>
+    </li>
+    <h2>Marquinhos</h2>
+    <li>
+        <li>Corinthians (2012): 14 jogos</li>
+        <li>Títulos: Copa Libertadores (2012)</li>
+    </li>
+    <h2>Thiago Silva</h2>
+    <li>
+        <li>Fluminense (2006-2008): 145 jogos, 14 gols</li>
+        <li>Juventude (2004): 30 jogos, 3 gols</li>
+        <li>RS FC (2003): 25 jogos, 2 gols</li>
+        <li>Total: 200 jogos, 19 gols</li>
+        <li>Títulos: Copa do Brasil (2007)</li>
+    </li>
+    <h2>Militão</h2>
+    <li>
+        <li>São Paulo (2017-2018): 57 jogos, 4 gols</li>
+    </li>
+    <h2>Meio-campistas</h2>
+    <h2>Fred</h2>
+    <li>
+        <li>Internacional (2012-2013): 55 jogos, 8 gols</li>
+        <li>Títulos: Campeonato Gaúcho (2012 e 2013)</li>
+    </li>
+    <h2>Bruno Guimarães</h2>
+    <li>
+        <li>Athletico-PR (2017-2019): 106 jogos, 10 gols </li>
+        <li>Audax (2015-2017): 9 jogos</li>
+        <li>Total: 115 jogos, 10 gols</li>
+        <li>Títulos: Campeonato Paranaense (2018), Copa Sul-Americana (2018), Copa do Brasil (2019) e Copa J.League/Conmebol (2019)</li>
+    </li>
+    <p></p><br>
+    <div id="div4">
+        <a id="div4link" href="5-maisartigos.html">Voltar</a>
+    </div>
+    <div id="div5">
+        <a id="div4link2" href="https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/11/15/jogos-titulos-e-gols-os-numeros-dos-convocados-da-selecao-para-a-copa-no-futebol-brasileiro.ghtml">Ver artigo completo</a>
+    </div>
+</body>
+</html>

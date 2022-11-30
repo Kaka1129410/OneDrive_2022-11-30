@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="NOSSA_LOGO_SEM_FUNDO.ico" type="image/x-icon">
+    <title>Com gol nos acréscimos, Brasil vence Canadá na despedida da temporada</title>
+    <style>
+        body{
+            text-align: center;
+        }
+        #vitorbelfort{
+            text-align: center;
+        }
+        p{
+            font-size: 20px;
+        }
+        #div1{
+            background-color: crimson;
+            font-size: x-large;
+            box-shadow: 7px 8px;
+            padding: 7px;
+        }
+        #div4{
+            font-size: x-large;
+        }
+        #div5{
+            font-size: x-large;
+        }
+        img{
+            border-radius: 10%;
+            box-shadow: 15px 15px 50px;
+        }
+        #div1link1{
+            text-decoration: none;
+            color: white;
+        }
+        #div1link2{
+            text-decoration: none;
+            color: white;
+        }
+        #div1link3{
+            text-decoration: none;
+            color:white;
+        }
+        #div4link{
+            text-decoration: none;
+            background-color: crimson;
+            padding: 12px;
+            color: white;
+            border-radius: 30px;
+            font-size: x-large;
+        }
+        #div4link2{
+            text-decoration: none;
+            background-color: crimson;
+            padding: 12px;
+            color: white;
+            border-radius: 30px;
+            font-size: x-large;
+        }
+    </style>
+</head>
+<body>
+    <br>
+    <nav id="div1">
+        <a id="div1link1" href="https://ge.globo.com/">GE Esportes</a>&nbsp&nbsp
+        <a id="div1link2" href="https://g1.globo.com/">G1 Globo</a><br>
+        <a id="div1link3" href="2-formulario-newsletter.html">Inscreva-se em nossa Newsletter</a>
+    </nav>
+    <h1>Kl Esportes</h1>
+    <h2>Você ligado em tudo no mundo dos esportes</h2>
+    <p></p>
+    <div id="vitorbelfort">
+        <picture>
+            <img id="vitorbelfort" src="IMAGENS/2-MAIS_ARTIGOS/4-CANADA-BRASIL.png" alt="VITOR_BELFORT">
+        </picture>
+    </div>
+    <h1>Com gol nos acréscimos, Brasil vence Canadá na despedida da temporada</h1>
+    <h2>Bia Zaneratto e Ana Vitória marcam para a seleção em amistoso na Neo Química Arena</h2>
+    <h1>Com emoção!</h1>
+    <p>A seleção feminina se despediu da temporada 2022 com vitória diante da toricda. Em amistoso na tarde desta terça-feira, na Neo Química Arena, o Brasil venceu o Canadá por 2 a 1, e devolveu o placar da partida da última sexta-feira. Bia Zaneratto abriu o placar no primeiro tempo. Lawrence, de pênalti, empatou a partida no início da segunda etapa. E Ana Vitória, nos acréscimos, garantiu a vitória da seleção.
+    </p>
+    <h1>Primeiro tempo</h1>
+    <p>A etapa inicial foi de poucas chances de gol para os dois lados. O Canadá tentou explorar as descidas pelos lados de campo. Nas oportunidades em que foi exigida, a goleira Lorena apareceu com segurança. O Brasil encontrava dificuldades, mas na reta final do primeiro tempo abriu o placar. Kerolin tomou a bola no meio de campo, partiu em velocidade e deu belo passe para Bia Zaneratto, que bateu cruzado de pé esquerdo: 1 a 0.
+    </p>
+    <h1>Segundo tempo</h1>
+    <p>Aos 15 minutos, Lawrence tentou o drible na área e a bola bateu no braço de Geyse. A arbitragem pegou pênalti para o Canadá. A própria Lawrence foi para cobrança e com categoria deslocou a goleira Lorena para empatar o jogo. Mas nos acréscimos o Brasil garantiu a vitória. Após cobrança de escanteio, Gabi Nunes cabeceou, Yekka salvou em cima da linha e Ana Vitória empurrou para a rede. Gol que definiu o resultado aos 46 minutos.
+    </p>
+    <div id="div4">
+        <a id="div4link" href="5-maisartigos.html">Voltar</a>
+    </div>
+</body>
+</html>
